@@ -13,3 +13,11 @@ Clones are copies of an entire Git repository.  Forks are non-local clones made 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 To know if the remote and local copy are in sync without having to query the remote.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+email, im, file sharing
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+If you are not the primary maintainer but want to add a feature and request it get added.  Working in the master is faster less complex.  Working in separate branches allows multiple people to work on different features in a non-linear way.
