@@ -16,4 +16,12 @@ Creating an experimental feature on a separate branch keeps potentially breaking
 
 How do the diagrams help you visualize the branch structure?
 
-By diagraming, you can see the series of commits that each branch is made of.
+By diagramming, you can see the series of commits that each branch is made of.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Combines changes made in both branches together.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic merging saves time but lacks context-awareness to always make the right decision.
